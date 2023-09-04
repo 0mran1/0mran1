@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Nasser</h1>
 <h3 align="center">A passionate mobile application developer from Egypt</h3>
-(img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ1NWM1NGM0OTh0OXl1Z3dvNDhrOHhyODJjZG5qaXN4cGZudmR5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif")
+(img align="right" alt="Coding" width="400" src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ1NWM1NGM0OTh0OXl1Z3dvNDhrOHhyODJjZG5qaXN4cGZudmR5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif](https://www.google.com/search?q=programmer+gif&tbm=isch&ved=2ahUKEwjO4O-w3ZCBAxXLmicCHTfeC3UQ2-cCegQIABAA&oq=programmer+gif&gs_lcp=CgNpbWcQAzIECCMQJzIECCMQJzIECAAQHjIECAAQHjIECAAQHjIGCAAQBRAeMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeMgYIABAFEB46BwgAEBMQgAQ6CAgAEAUQHhATOggIABAIEB4QE1CnCFinCGDjCWgAcAB4AIABggGIAfABkgEDMC4ymAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=Ca_1ZI64I8u1nsEPt7yvqAc&bih=955&biw=1920#imgrc=ITaGGdoGDaxxhM)")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0mran1&label=Profile%20views&color=0e75b6&style=flat" alt="0mran1" /> </p>
 
